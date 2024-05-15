@@ -1,10 +1,19 @@
+import Layout from "./components/Layout"
+import ExploreEvents from "./pages/ExploreEvents"
+import Home from "./pages/Home"
+import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 function App() {
 
   return (
-    <>
-      <h1 className="text-6xl font-medium text-center"> Hello World</h1>
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />} >
+          <Route index element={<Home />} />
+          <Route path="discover" element={<ExploreEvents />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   )
 }
 
