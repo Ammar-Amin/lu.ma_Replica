@@ -1,5 +1,5 @@
 import React from 'react'
-import Scrollables from '../components/Layout/Scrollables'
+import Scrollables from '../components/Scrollables'
 import NewsBlog from '../components/NewsBlog'
 
 export default function ExploreEvents() {
