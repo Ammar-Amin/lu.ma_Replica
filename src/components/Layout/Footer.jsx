@@ -13,10 +13,10 @@ function Footer() {
                     <span>Help</span>
                 </div>
                 <div className='text-slate-300 flex gap-2 md:gap-5'>
-                    <i class="ri-shopping-bag-2-line"></i>
-                    <i class="ri-apple-line"></i>
-                    <i class="ri-twitter-fill"></i>
-                    <i class="ri-instagram-line"></i>
+                    <i className="ri-shopping-bag-2-line"></i>
+                    <i className="ri-apple-line"></i>
+                    <i className="ri-twitter-fill"></i>
+                    <i className="ri-instagram-line"></i>
                 </div>
             </div>
             <div className='md:hidden text-slate-400 py-3 text-sm w-3/4 flex flex-wrap gap-3'>

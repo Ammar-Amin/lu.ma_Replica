@@ -10,8 +10,8 @@ export default function NewsEvent() {
                         FEMHACK 2024: All-Female Weekend Hackathon
                     </h1>
                     <div className='text-sm xl:text-base mt-2 text-slate-500'>
-                        <p><i class="ri-nextjs-fill "></i> By melissa wallace</p>
-                        <p><i class="ri-map-pin-line "></i> New York, New York</p>
+                        <p><i className="ri-nextjs-fill "></i> By melissa wallace</p>
+                        <p><i className="ri-map-pin-line "></i> New York, New York</p>
                     </div>
                 </div>
 
@@ -19,8 +19,8 @@ export default function NewsEvent() {
 
             </div>
             {/* <div className='mt-2 text-slate-500 text-xs'>
-                <p><i class="ri-nextjs-fill"></i> By melissa wallace</p>
-                <p><i class="ri-map-pin-line"></i> New York, New York</p>
+                <p><i className="ri-nextjs-fill"></i> By melissa wallace</p>
+                <p><i className="ri-map-pin-line"></i> New York, New York</p>
             </div> */}
         </div>
     )
