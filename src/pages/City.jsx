@@ -11,7 +11,7 @@ export default function City() {
                     />
                     <h1 className='mb-[-5px] md:mb-0 text-lg md:text-2xl md:font-semibold text-slate-300'>What's Happening in</h1>
                     <h1 className='text-2xl md:text-5xl md:mb-3 text-white font-semibold'>Bengaluru</h1>
-                    <span className='text-xs md:text-sm text-slate-300'><i class="ri-time-line"></i> 11.02 AM GMT +5:30</span>
+                    <span className='text-xs md:text-sm text-slate-300'><i className="ri-time-line"></i> 11.02 AM GMT +5:30</span>
 
                     <div className='my-2 md:mt-4 w-full h-[1px] bg-slate-400'></div>
 
@@ -21,7 +21,7 @@ export default function City() {
                         className='h-7 md:h-9 flex justify-between md:justify-normal gap-1 md:gap-3'>
                         <input type='email' className='w-1/2 px-4 rounded-2xl bg-black/15 outline-none text-white text-sm' placeholder='me@email.com' />
                         <input type='submit' value='Subscribe' className='px-4 rounded-2xl bg-white text-black text-sm' />
-                        <i class="ri-map-2-line md:hidden text-lg px-1 rounded-2xl bg-black/15 text-white"></i>
+                        <i className="ri-map-2-line md:hidden text-lg px-1 rounded-2xl bg-black/15 text-white"></i>
                     </form>
                 </div>
             </div>
@@ -33,8 +33,8 @@ export default function City() {
                             <h1 className='text-white font-semibold md:text-2xl'>Events</h1>
                             <div className='text-xs md:text-base flex gap-2'>
                                 <button className='text-slate-500 hover:text-white px-2 rounded-md bg-stone-800'>+ Submit Event</button>
-                                <i class="ri-rss-line text-slate-500 hover:text-white px-2 py-1 rounded-md bg-stone-800"></i>
-                                <i class="ri-search-line text-slate-500 hover:text-white px-2 py-1 rounded-md bg-stone-800"></i>
+                                <i className="ri-rss-line text-slate-500 hover:text-white px-2 py-1 rounded-md bg-stone-800"></i>
+                                <i className="ri-search-line text-slate-500 hover:text-white px-2 py-1 rounded-md bg-stone-800"></i>
                             </div>
                         </div>
                         <div className='flex md:gap-3'>

@@ -8,8 +8,8 @@ export default function Event() {
                     <span className='text-xs text-slate-500'>5:00 PM</span>
                     <h1 className='text-white md:text-lg md:mb-2 xl:text-xl md:font-semibold'>HSR FC - Hands on AI Workshop by Microsoft For Startups</h1>
                     <div className='hidden text-sm xl:text-base mt-2 text-slate-500 md:inline'>
-                        <p><i class="ri-nextjs-fill "></i> By HSR Founders Club</p>
-                        <p><i class="ri-map-pin-line "></i> Urban Vault HSR Layout 65</p>
+                        <p><i className="ri-nextjs-fill "></i> By HSR Founders Club</p>
+                        <p><i className="ri-map-pin-line "></i> Urban Vault HSR Layout 65</p>
                     </div>
                 </div>
 
@@ -17,8 +17,8 @@ export default function Event() {
 
             </div>
             <div className='mt-2 text-slate-500 text-xs sm:hidden'>
-                <p><i class="ri-nextjs-fill"></i> By HSR Founders Club</p>
-                <p><i class="ri-map-pin-line"></i> Urban Vault HSR Layout 65</p>
+                <p><i className="ri-nextjs-fill"></i> By HSR Founders Club</p>
+                <p><i className="ri-map-pin-line"></i> Urban Vault HSR Layout 65</p>
             </div>
         </div>
     )

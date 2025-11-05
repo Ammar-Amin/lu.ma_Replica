@@ -9,7 +9,7 @@ export default function News() {
             <div className='pt-12 md:pt-16 w-full lg:w-2/3 lg:mx-auto'>
                 <div className='relative'>
                     <div>
-                        <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b" alt="Cover Image for Calendar" fetchpriority="high" loading="eager" srcSet="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=450,height=128.57142857142858/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 450w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=450,height=128.57142857142858/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 900w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=650,height=185.71428571428572/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 650w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=650,height=185.71428571428572/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1300w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=820,height=234.28571428571428/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 820w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=820,height=234.28571428571428/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1640w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=1000,height=285.7142857142857/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1000w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=285.7142857142857/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 2000w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1250w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 2500w" sizes="(max-width: 450px) 450px, (max-width: 650px) 650px, (max-width: 820px) 820px, (max-width: 1000px) 1000px, 1250px" class="jsx-4068354093 " />
+                        <img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b" alt="Cover Image for Calendar" fetchpriority="high" loading="eager" srcSet="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=450,height=128.57142857142858/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 450w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=450,height=128.57142857142858/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 900w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=650,height=185.71428571428572/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 650w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=650,height=185.71428571428572/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1300w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=820,height=234.28571428571428/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 820w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=820,height=234.28571428571428/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1640w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=1000,height=285.7142857142857/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1000w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1000,height=285.7142857142857/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 2000w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 1250w, https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=1250,height=357.14285714285717/calendar-cover-images/69/4cf58c6a-a887-46e9-9e5a-a49e1b06352b 2500w" sizes="(max-width: 450px) 450px, (max-width: 650px) 650px, (max-width: 820px) 820px, (max-width: 1000px) 1000px, 1250px" className="jsx-4068354093 " />
                     </div>
                     <div className='w-full px-3 lg:px-6 xl:px-8 absolute top-[75%] md:top-[85%]'>
                         <div className='flex justify-between items-end'>
@@ -25,36 +25,36 @@ export default function News() {
                     <p className='my-2 text-xs md:text-sm xl:text-base text-slate-400'>
                         Explore NY Tech Week side events from June 3-9, showcasing the latest in technology and innovation across diverse sectors, connecting industry leaders and startups in New York City.</p>
                     <div className='flex gap-2 text-slate-500 md:text-lg'>
-                        <i class="ri-twitter-fill hover:text-slate-200"></i>
-                        <i class="ri-youtube-fill hover:text-slate-200"></i>
-                        <i class="ri-global-line hover:text-slate-200"></i>
+                        <i className="ri-twitter-fill hover:text-slate-200"></i>
+                        <i className="ri-youtube-fill hover:text-slate-200"></i>
+                        <i className="ri-global-line hover:text-slate-200"></i>
                     </div>
                 </div>
                 <div className='px-3 pb-4 flex gap-2 overflow-x-scroll md:overflow-auto text-xs text-slate-400'>
                     <span className="px-2 py-1 bg-neutral-700 rounded-md text-nowrap hover:text-black hover:bg-neutral-400">
-                        <i class="ri-global-line mr-1"></i>
+                        <i className="ri-global-line mr-1"></i>
                         EDTM (New York) 9:12 PM
-                        <i class="ri-arrow-down-s-line ml-1"></i>
+                        <i className="ri-arrow-down-s-line ml-1"></i>
                     </span>
                     <span className="px-2 py-1 bg-neutral-700 rounded-md text-nowrap hover:text-black hover:bg-neutral-400">
                         All Events
-                        <i class="ri-arrow-down-s-line ml-1"></i>
+                        <i className="ri-arrow-down-s-line ml-1"></i>
                     </span>
                     <span className="px-2 py-1 bg-neutral-700 rounded-md text-nowrap hover:text-black hover:bg-neutral-400">
-                        <i class="ri-map-2-line mr-1"></i>
+                        <i className="ri-map-2-line mr-1"></i>
                         Show Map
                     </span>
                     <span className="px-2 py-1 bg-neutral-700 rounded-md text-nowrap hover:text-black hover:bg-neutral-400">
-                        <i class="ri-rss-line"></i>
+                        <i className="ri-rss-line"></i>
                     </span>
                 </div>
                 <div className='px-4 pt-2 md:py-4 flex justify-between border-t-[1px] border-slate-800'>
                     <h1 className='text-white font-semibold md:text-2xl'>Events</h1>
                     <div className='text-xs md:text-base flex gap-2'>
                         <button className='text-slate-500 hover:text-black hover:bg-neutral-400 px-2 rounded-md bg-stone-800'>+ Submit Event</button>
-                        <i class="ri-boxing-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
-                        <i class="ri-menu-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
-                        <i class="ri-search-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
+                        <i className="ri-boxing-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
+                        <i className="ri-menu-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
+                        <i className="ri-search-line text-slate-500 hover:text-black hover:bg-neutral-400 px-2 py-1 rounded-md bg-stone-800"></i>
                     </div>
                 </div>
                 <div className='px-3 pb-4 md:flex lg:gap-3 mt-3 lg:mt-0'>
